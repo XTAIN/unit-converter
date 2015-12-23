@@ -1,8 +1,21 @@
 {
     "name": "xtain/unit-converter",
-    "autoload" : {
-        "psr-4" : {
-            "XTAIN\\UnitConverter\\" : "/src"          
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "XTAIN\\UnitConverter\\": ""
         }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.xtain.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"
+    },
+    "require-dev": {
     }
 }
