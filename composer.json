@@ -1,0 +1,8 @@
+{
+    "name": "xtain/unit-converter",
+    "autoload" : {
+        "psr-4" : {
+            "XTAIN\\UnitConverter\\" : "/src"          
+        }
+    }
+}
