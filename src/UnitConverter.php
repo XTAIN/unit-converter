@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: hanmac
- * Date: 23.12.15
- * Time: 15:25
- */
-
 namespace XTAIN\UnitConverter;
 
 
